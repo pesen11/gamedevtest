@@ -1,1 +1,2 @@
 This is another sample.
+Changes made from VSCode GUI.
